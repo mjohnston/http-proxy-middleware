@@ -54,7 +54,6 @@
     "ws": "^3.2.0"
   },
   "dependencies": {
-    "http-proxy": "mjohnston/http-proxy",
     "is-glob": "^4.0.0",
     "lodash": "^4.17.2",
     "micromatch": "^3.1.0"
